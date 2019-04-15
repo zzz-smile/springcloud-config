@@ -3,4 +3,4 @@ eureka:
      serviceUrl:
        defaultZone: http://localhost:8761/eureka/
 
-testname: superMan-test
+testname: superMan-Z
